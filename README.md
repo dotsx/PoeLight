@@ -11,6 +11,9 @@ a tool can highlight pathofexile mod.
 
 Download relesae package, just run
 
+![screenshot](https://github.com/dotsx/PoeLight/assets/89591768/0bbd4f1c-412b-4323-9d30-9ee226361bc8)
+
+
 ## Requirement
 
 - .Net6.0 x64 Runtime [Download x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.20-windows-x64-installer)
