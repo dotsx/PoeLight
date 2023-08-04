@@ -1,6 +1,6 @@
 # PoeLight
 
-a tool can highlight pathofexile mod.
+a tool to highlight pathofexile modifiers
 
 ## Example
 
