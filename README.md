@@ -1,6 +1,6 @@
 # PoeLight
 
-a tool to highlight pathofexile modifiers
+color mods of pathofexile
 
 ## Example
 
