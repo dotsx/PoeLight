@@ -1,17 +1,24 @@
 # PoeLight
 
-color mods of pathofexile
+PoeLight is inspired by PoeSmoother, so many features are the same. You can choose any of them for free.
 
-## Example
+## Features
+- highlight / color mods
+- remove fog
+- remove enviro particles
+- remove shadows
+- remove darkness
+- remove skills sounds
+- remove monsters sounds
+
+## Screenshot
 
 <img alt="eldritch" src="https://github.com/dotsx/PoeLight/assets/89591768/813e3558-62ab-421e-afa7-4a0fe49ae118" width="300px" />
 <img alt="expedition" src="https://github.com/dotsx/PoeLight/assets/89591768/97d08d75-93e8-4aee-9740-1f2f8d9896fe" width="300px" />
 
 ## Usage
 
-Download relesae package, just run
-
-<img alt="screenshot" src="https://github.com/dotsx/PoeLight/assets/89591768/0bbd4f1c-412b-4323-9d30-9ee226361bc8" width=300 />
+Download from release page, [Go](https://github.com/dotsx/PoeLight/release)
 
 
 ## Requirement
