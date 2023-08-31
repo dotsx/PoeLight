@@ -22,7 +22,7 @@ PoeLight is inspired by PoeSmoother. You can choose any of them for free.
 
 ## Usage
 
-Download from release page, [Go](https://github.com/dotsx/PoeLight/release)
+Download from release page, [Go](https://github.com/dotsx/PoeLight/releases)
 
 
 ## Requirement
