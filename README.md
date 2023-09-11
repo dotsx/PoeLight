@@ -1,6 +1,6 @@
 # PoeLight
 
-PoeLight is inspired by PoeSmoother. You can choose any of them for free.
+
 
 ## Features
 - highlight / color mods
