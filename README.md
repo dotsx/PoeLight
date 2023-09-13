@@ -18,7 +18,7 @@ Download: [caimogu](https://www.caimogu.cc/post/784491.html)
 - zero particles
 - resize textures
 
-## Case shot
+## Showcase
 <img alt="" src="https://github.com/dotsx/PoeLight/assets/89591768/d9ef2508-a367-4a30-9783-fe0671909df2" width="200px" />
 
 <img alt="eldritch" src="https://github.com/dotsx/PoeLight/assets/89591768/813e3558-62ab-421e-afa7-4a0fe49ae118" width="200px" />
