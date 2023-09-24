@@ -1,6 +1,6 @@
 # PoeLight
 
-<img alt="" src="[https://github.com/dotsx/PoeLight/assets/89591768/d9ef2508-a367-4a30-9783-fe0671909df2](https://github.com/dotsx/PoeLight/assets/89591768/f6867d04-22fa-4ac4-b08f-a1a84887d005)" width="200px" />
+<img alt="" src="https://github.com/dotsx/PoeLight/assets/89591768/dea1152d-7255-4b11-9a40-983daa21d919" width="200px" />
 
 ## Features
 - highlight / color mods(support all language)
