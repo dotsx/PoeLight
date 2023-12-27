@@ -7,4 +7,5 @@
 * 泥人模式
 
 ## 界面截图
-![image](https://github.com/dotsx/PoeLight/assets/89591768/5ec40187-eba2-4de8-b273-f5739e392a4c)
+![image](https://github.com/dotsx/PoeLight/assets/89591768/1a81ba06-2f4c-47d4-ba65-f02d0ba4c468)
+
