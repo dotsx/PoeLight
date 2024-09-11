@@ -1,13 +1,17 @@
+# PoeLight
 
-# 简介
-为了让流放更流畅，移除一些不必要的特效。在怪多的场景下，卡顿有明显改善。
+PoeLight is a effects remover of path of exile. It is fast and reliable. Official\Steam\Hutool\Tencent client are all supported.
 
-# 核心功能
-* 词缀上色 (color mods) [wiki ref](https://github.com/dotsx/PoeLight/wiki/color-mod-cases)
-  
-* 移除部分特效(soft remove effects)
+## core features
 
-* 技能特效屏蔽(remove skill effects)
+* soft remove effects
+* remove darkness
+* remove fog
+* remove implict skill effects
+* remove sound
+* zero effects
+* color mods [wiki ref](https://github.com/dotsx/PoeLight/wiki/color-mod-cases)
 
-* 泥人模式(resize textures)
+## advanced features
+* resize textures
 
